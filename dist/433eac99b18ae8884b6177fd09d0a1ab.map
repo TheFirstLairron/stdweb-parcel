@@ -1,1 +1,0 @@
-{"version":3,"sources":["js\\index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;;;;;AAEAA,QAAQC,GAAR","file":"433eac99b18ae8884b6177fd09d0a1ab.map","sourcesContent":["import Rust from '../Cargo.toml';\r\n\r\nconsole.log(Rust);"]}
