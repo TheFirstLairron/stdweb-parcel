@@ -69,4 +69,4 @@ typings/
 .cache
 
 # parcel output
-dist
+/dist/
