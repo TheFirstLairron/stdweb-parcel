@@ -65,6 +65,8 @@ typings/
 # next.js build output
 .next
 
-
 # parcel cache
 .cache
+
+# parcel output
+dist
