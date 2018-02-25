@@ -1,0 +1,16 @@
+{
+  "name": "std-web-parcel-test",
+  "version": "1.0.0",
+  "description": "a rusty test",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.6.2"
+  }
+}

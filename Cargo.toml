@@ -1,0 +1,12 @@
+[package]
+name = "std-web-parcel-test"
+version = "0.1.0"
+authors = ["TheFirstLairron <zrwall@hotmail.com>"]
+
+[dependencies]
+stdweb = "0.4.0"
+serde = "1.0.27"
+serde_derive = "1.0.27"
+
+[lib]
+crate-type = ["cdylib"]
