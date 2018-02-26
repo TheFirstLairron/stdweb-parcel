@@ -8,7 +8,7 @@ extern crate serde_derive;
 
 extern crate serde;
 
-use stdweb::{js_export, js_serializable, js_deserializable};
+use stdweb::{js_deserializable, js_export, js_serializable};
 
 #[derive(Serialize, Deserialize)]
 struct Person {

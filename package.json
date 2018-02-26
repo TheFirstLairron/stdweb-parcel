@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
-    "parcel-bundler": "^1.6.2"
+    "parcel-bundler": "^1.6.2",
+    "parcel-plugin-cargo-web": "^0.1.0"
   }
 }
