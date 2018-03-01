@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --open",
+    "check": "cargo check --target=wasm32-unknown-unknown",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
